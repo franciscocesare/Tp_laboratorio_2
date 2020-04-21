@@ -17,14 +17,21 @@ namespace Entidades
         //setea el numero obtenido de Form
         //valida que sea un numero
         //devuelve el string cargado con el numero
-        public string SetNumero(string numeroAux)
-        {
+        //public string SetNumero(string numeroAux)
+        //{
             
-            this.numero = ValidarNumero(numeroAux);
+        //    this.numero = ValidarNumero(numeroAux);
 
-            return this.numero.ToString();
+        //    return this.numero.ToString();
+        //}
+
+        public string SetNumero
+        {
+            set
+            {
+                this.numero = ValidarNumero(value);
+            }
         }
-
 
 
         //Ctor por Defecto, sin param. asigna 0.
@@ -44,8 +51,8 @@ namespace Entidades
         //ctro con string seteado
         public Numero(string numero)
         {
-            string auxNum;
-            auxNum = this.SetNumero(numero);
+            
+            this.SetNumero=numero;
         }
 
 
