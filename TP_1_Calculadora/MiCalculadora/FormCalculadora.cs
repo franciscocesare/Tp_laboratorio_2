@@ -110,5 +110,10 @@ namespace MiCalculadora
             lblResultado.Text = numero.DecimalBinario(auxNumero);
             btnConvertirDecimal.Enabled = true;
         }
+
+        private void cmbOperacion_SelectedIndexChanged_1(object sender, EventArgs e)
+        {
+
+        }
     }
 }

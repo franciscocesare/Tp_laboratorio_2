@@ -17,12 +17,12 @@ namespace Entidades
         //setea el numero obtenido de Form
         //valida que sea un numero
         //devuelve el string cargado con el numero
-        private string SetNumero(string numeroAux)
+        public string SetNumero(string numeroAux)
         {
             
             this.numero = ValidarNumero(numeroAux);
 
-            return "";
+            return this.numero.ToString();
         }
 
 
