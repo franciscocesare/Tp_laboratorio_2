@@ -126,7 +126,6 @@
             this.cmbOperacion.Size = new System.Drawing.Size(126, 54);
             this.cmbOperacion.TabIndex = 1;
             this.cmbOperacion.Text = "+";
-            this.cmbOperacion.SelectedIndexChanged += new System.EventHandler(this.cmbOperacion_SelectedIndexChanged_1);
             // 
             // txtPrimerNum
             // 

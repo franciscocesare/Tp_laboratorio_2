@@ -8,33 +8,41 @@ namespace Entidades
 {
     public static class Calculadora
     {
-        //Recibe un valor en operador, valida cual es, sino devuelve "+"
-        //Param string, operador seleccionado
-        //Return; operador Validado, o por defecto
 
+        /// <summary>
+        /// Recibe un valor en operador, valida cual es, sino devuelve "+"
+        /// </summary>
+        /// <param name="operador"></param>string, operador seleccionado
+        /// <returns></returns>operador Validado, o por defecto
         private static string ValidadOperador(string operador)
         {
             string validado = "+";
 
             if (operador == "-")
-
+            {
                 validado = "-";
-
+            }
             if (operador == "/")
-
+            {
                 validado = "/";
-
+            }
             if (operador == "*")
-
+            {
                 validado = "*";
-
+            }
             return validado;
         }
 
-        //recibe dos numeros y un operador seleccionado por usuario
-        //realiza la operacion mediante un switch segun la opcion elegida
-        //return; devuelve el resultado de la operacion
 
+
+        /// <summary>
+        /// recibe dos numeros y un operador seleccionado por usuario
+        //realiza la operacion mediante un switch segun la opcion elegida
+        /// </summary>
+        /// <param name="primerNumero"></param>
+        /// <param name="segundoNumero"></param>
+        /// <param name="operacion"></param>
+        /// <returns></returns>devuelve el resultado de la operacion
         public static double Operar(Numero primerNumero, Numero segundoNumero, string operacion)
         {
             double resultado = 0;
@@ -61,9 +69,9 @@ namespace Entidades
                         }
                     case "/":
                         {
-                            
 
-                                resultado = primerNumero / segundoNumero;
+
+                            resultado = primerNumero / segundoNumero;
                             break;
                         }
 

@@ -13,15 +13,35 @@ namespace MiCalculadora
 {
     public partial class FormCalculadora : Form
     {
+        //inicia el form
         public FormCalculadora()
         {
             InitializeComponent();
         }
 
+        /// <summary>
+        /// Carga el Form, en 0 o isEmpty y false
+        /// </summary>
+        /// <param name="sender"></param>
+        /// <param name="e"></param>
+        private void FormCalculadora_Load(object sender, EventArgs e)
+        {
+            this.txtPrimerNum.Text = string.Empty;
+            this.txtSegundoNum.Text = string.Empty;
+            this.cmbOperacion.Text = "+";
+            this.lblResultado.Text = string.Empty;
+            this.btnConvertirBinario.Enabled = false;
+            this.btnConvertirDecimal.Enabled = false;
+        }
 
-        //instancio dos objetos Numero, y realizo operaciones validadas
-        //retorno el valor resultante de la operacion
 
+        /// <summary>
+        /// instancio dos objetos Numero, y realizo operaciones validadas
+        /// </summary>
+        /// <param name="num1"></param>
+        /// <param name="num2"></param>
+        /// <param name="operacion"></param>
+        /// <returns></returns>valor resultante de la operacion
         private static double Operar(string num1, string num2, string operacion)
         {
             
@@ -35,10 +55,10 @@ namespace MiCalculadora
   
         }
 
-        //Limpiar vacia los campos como al comienzo
-        //deja en flase los botones binario y decimal, porque no habria 
-        //valor a convertir
-        //no recibe parametros, con el this, el objeto que lo llama trabaja
+       
+        /// <summary>
+        /// Limpiar vacia los campos como al comienzo
+        /// </summary>
         private void Limpiar()
         {
             this.txtPrimerNum.Text =string.Empty ;
@@ -49,11 +69,12 @@ namespace MiCalculadora
             this.btnConvertirDecimal.Enabled = false;
 
         }
-        private void FormCalculadora_Load(object sender, EventArgs e)
-        {
-
-        }
-
+        
+        /// <summary>
+        /// Evento generado por click en Limpiar
+        /// </summary>
+        /// <param name="sender"></param>
+        /// <param name="e"></param>
         private void btnLimpiar_Click(object sender, EventArgs e)
         {
             this.Limpiar();
@@ -66,9 +87,7 @@ namespace MiCalculadora
 
         private void btnOperar_Click(object sender, EventArgs e)
         {
-            string resultado = "";
-
-            string operador = Convert.ToString(cmbOperacion.SelectedIndex);
+            string resultado = string.Empty;
 
             resultado=FormCalculadora.Operar(txtPrimerNum.Text,txtSegundoNum.Text, cmbOperacion.Text).ToString();
 
@@ -79,13 +98,16 @@ namespace MiCalculadora
             btnLimpiar.Enabled = true;
         }
 
-        private void cmbOperacion_SelectedIndexChanged(object sender, EventArgs e)
-        {
-         
-        }
-        //evento, realiza la operacion convertir a decimal
-        //crea una nueva instancia para guardar el numero resultante
+        
+        //
+        //
         //deja activo el boton convertir a binario
+        /// <summary>
+
+        /// </summary>
+        /// <param name="sender"></param>
+        /// <param name="e"></param>crea una nueva instancia para guardar el numero resultante
+        /// /// evento, realiza la operacion convertir a decimal y lo muestra
         private void btnConvertirDecimal_Click(object sender, EventArgs e)
         {
             string auxNumero = lblResultado.Text;
@@ -98,9 +120,10 @@ namespace MiCalculadora
 
         }
 
-        //evento, realiza la operacion convertir a binario
-        //crea una nueva instancia para guardar el numero resultante
-        //deja activo el boton convertir a decimal
+        /// </summary>
+        /// <param name="sender"></param>
+        /// <param name="e"></param>crea una nueva instancia para guardar el numero resultante
+        /// /// evento, realiza la operacion convertir a binariol y lo muestra
         private void btnConvertirBinario_Click(object sender, EventArgs e)
         {
             string auxNumero = lblResultado.Text;
@@ -109,11 +132,6 @@ namespace MiCalculadora
             
             lblResultado.Text = numero.DecimalBinario(auxNumero);
             btnConvertirDecimal.Enabled = true;
-        }
-
-        private void cmbOperacion_SelectedIndexChanged_1(object sender, EventArgs e)
-        {
-
         }
     }
 }

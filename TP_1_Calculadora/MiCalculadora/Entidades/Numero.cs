@@ -7,24 +7,17 @@ using System.Threading.Tasks;
 
 namespace Entidades
 {
-   
+
 
     public class Numero
     {
-        private double numero; //sytibuto privado y estatico
+        private double numero; //atibuto privado y estatico
 
-
-        //setea el numero obtenido de Form
-        //valida que sea un numero
-        //devuelve el string cargado con el numero
-        //public string SetNumero(string numeroAux)
-        //{
-            
-        //    this.numero = ValidarNumero(numeroAux);
-
-        //    return this.numero.ToString();
-        //}
-
+        /// <summary>
+        /// //setea el numero obtenido de Form
+        /// </summary>
+        /// <param name="numero"></param>
+        /// <returns></returns> devuelve el double cargado con el numero
         public string SetNumero
         {
             set
@@ -48,23 +41,27 @@ namespace Entidades
 
 
 
-        //ctro con string seteado
+        //ctor con string seteado
         public Numero(string numero)
         {
-            
-            this.SetNumero=numero;
+
+            this.SetNumero = numero;
         }
 
 
-        //recibe un String, y valida que lo pueda convertir a Double.
+        /// <summary>
+        /// //recibe un String, y valida que lo pueda convertir a Double.
+        /// </summary>
+        /// <param name="numero"></param>
+        /// <returns></returns> el string validado a double
         private double ValidarNumero(string numero)
         {
             double numeroValidado = 0;
 
             if (!(numero is null))
-
+            {
                 double.TryParse(numero, out numeroValidado);
-
+            }
             return numeroValidado;
         }
 
@@ -72,7 +69,12 @@ namespace Entidades
 
 
 
-        //Sobrecarga de operadores para las operaciones Calculadoras
+        /// <summary>
+        /// //Sobrecarga de operadores para las operaciones Calculadoras
+        /// </summary>
+        /// <param name="numero1"></param>
+        /// <param name="numero2"></param>
+        /// <returns></returns> el resultado de la operacion elegida
         public static double operator +(Numero numero1, Numero numero2)
         {
             return numero1.numero + numero2.numero;
@@ -88,13 +90,14 @@ namespace Entidades
         public static double operator /(Numero numero1, Numero numero2)
         {
             if (numero2.numero == 0)
-
+            {  
                 return double.MinValue;
+            }
 
             else
-
+            { 
                 return numero1.numero / numero2.numero;
-
+            }
         }
 
         public static double operator *(Numero numero1, Numero numero2)
@@ -111,7 +114,10 @@ namespace Entidades
             foreach (int binarioAux in binario)
             {
                 if (binarioAux != '0' && binarioAux != '1')
+                { 
                     return "Valor Invalido";
+            
+                }
             }
 
             return Convert.ToInt32(binario, 2).ToString();
@@ -129,8 +135,9 @@ namespace Entidades
             string resultado = "";
 
             if (auxNum < 0)
+            { 
                 resultado = "Valor invalido";
-
+            }
             while (auxNum > 0)
             {
                 resultado = auxNum % 2 + resultado;
@@ -149,15 +156,17 @@ namespace Entidades
             double auxNum;
 
             if (double.TryParse(numero, out auxNum))
-
-                aux = DecimalBinario(auxNum); //reutilizacion de codigo
-            else
             { 
+                aux = DecimalBinario(auxNum); //reutilizacion de codigo
+
+            }
+            else
+            {
                 aux = "Valor Invalido";
             }
-            return  aux;
+            return aux;
         }
-      
+
         #endregion
 
     }
