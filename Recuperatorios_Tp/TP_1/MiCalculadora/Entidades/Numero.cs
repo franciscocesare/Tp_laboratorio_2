@@ -11,7 +11,7 @@ namespace Entidades
 
     public class Numero
     {
-        private double numero; //atibuto privado y estatico
+        private double numero; 
 
         /// <summary>
         /// //setea el numero obtenido de Form
@@ -190,7 +190,7 @@ namespace Entidades
 
             if (double.TryParse(numero, out auxNum))
             { 
-                aux = DecimalBinario(auxNum); //reutilizacion de codigo
+                aux = DecimalBinario(auxNum); 
 
             }
             else

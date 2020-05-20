@@ -54,7 +54,10 @@ namespace Entidades
         {
             return (string)this;
         }
-
+        /// <summary>
+        /// string completo de datos cada vehiculo
+        /// </summary>
+        /// <param name="p"></param>
         public static explicit operator string(Vehiculo p)
         {
             StringBuilder sb = new StringBuilder();
