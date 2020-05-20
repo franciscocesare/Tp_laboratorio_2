@@ -27,21 +27,29 @@ namespace Entidades
         }
 
 
+        /// <summary>
         //Ctor por Defecto, sin param. asigna 0.
+        /// </summary>
         public Numero()
         {
             this.numero = 0;
         }
 
-        //Ctor con double
+
+        /// <summary>
+        /// //Ctor con double
+        /// </summary>
+        /// <param name="numero"></param>
         public Numero(double numero)
         {
             this.numero = numero;
         }
 
 
-
-        //ctor con string seteado
+        /// <summary>
+        /// //ctor con string seteado
+        /// </summary>
+        /// <param name="numero"></param>
         public Numero(string numero)
         {
 
@@ -81,12 +89,24 @@ namespace Entidades
 
         }
 
+        /// <summary>
+        /// operacion de resta de dos numeros
+        /// </summary>
+        /// <param name="numero1"></param> numero 1 para la operacion
+        /// <param name="numero2"></param> numero 2 para la operacion
+        /// <returns></returns> resultado de la resta de los dos numeros recibidos
         public static double operator -(Numero numero1, Numero numero2)
         {
             return numero1.numero - numero2.numero;
 
         }
 
+        /// <summary>
+        /// operacion de division de dos numeros
+        /// </summary>
+        /// <param name="numero1"></param>numero 1 para la operacion
+        /// <param name="numero2"></param>numero 2 para la operacion
+        /// <returns></returns>resultado de la division de los dos numeros recibidos
         public static double operator /(Numero numero1, Numero numero2)
         {
             if (numero2.numero == 0)
@@ -100,15 +120,24 @@ namespace Entidades
             }
         }
 
+        /// <summary>
+        /// operacion de multiplicacion de dos numeros
+        /// </summary>
+        /// <param name="numero1"></param>numero 1 para la operacion
+        /// <param name="numero2"></param>numero 2 para la operacion
+        /// <returns></returns>resultado de la multiplicacion de los dos numeros recibidos
         public static double operator *(Numero numero1, Numero numero2)
         {
 
             return numero1.numero * numero2.numero;
         }
 
-        //itera con foreach el string recibido
-        //si en el aux no hay ningun 0 o 1, retorna Valor invalido
-        //si hay 1 y 0, realiza la operacion de convertir a decimal y la retorna
+        
+        /// <summary>
+        /// /si en el aux no hay ningun 0 o 1, retorna Valor invalido
+        /// </summary>
+        /// <param name="binario"></param>string de binario recibido
+        /// <returns></returns>Convierte el string a decimal y lo retorna, en string
         public string BinarioDecimal(string binario)
         {
             foreach (int binarioAux in binario)
@@ -123,11 +152,12 @@ namespace Entidades
             return Convert.ToInt32(binario, 2).ToString();
         }
 
-        //castea a int el num recibido
-        //si el int es menor a 0, retorna Valor invalido
-        //mientras sea mayor a 0, divide con resto 2, y suma el resultado
-        //retorna luego de iterar hasta que el numero disminuye a 0 el resultado
-        //de la division y suma
+        
+        /// <summary>
+        /// castea a int el num recibido
+        /// </summary>
+        /// <param name="numero"></param>
+        /// <returns></returns>retorna el binario del decimal recibido,o valor invalido
         public string DecimalBinario(double numero)
         {
             int auxNum = (int)numero;
@@ -147,9 +177,12 @@ namespace Entidades
             return resultado;
         }
 
-        //si pudo castear a double el string recibido,
-        //lo convierte con la operacion anterior reutilizando codigo
-        //retorna el resultado de la operacion en string
+       
+        /// <summary>
+        /// si pudo castear a double el string recibido
+        /// </summary>
+        /// <param name="numero"></param>
+        /// <returns></returns> en double, el casteo. de binario a decimal del otro metodo
         public string DecimalBinario(string numero)
         {
             string aux = "";

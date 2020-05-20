@@ -10,3 +10,9 @@ C:\Users\Usuario\Desktop\labo y progra 2\TP_LABO_II\Tp_laboratorio_2\TP_1_Calcul
 C:\Users\Usuario\Desktop\labo y progra 2\TP_LABO_II\Tp_laboratorio_2\TP_1_Calculadora\MiCalculadora\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
 C:\Users\Usuario\Desktop\labo y progra 2\TP_LABO_II\Tp_laboratorio_2\TP_1_Calculadora\MiCalculadora\Entidades\obj\Debug\Entidades.dll
 C:\Users\Usuario\Desktop\labo y progra 2\TP_LABO_II\Tp_laboratorio_2\TP_1_Calculadora\MiCalculadora\Entidades\obj\Debug\Entidades.pdb
+C:\Users\Usuario\Desktop\labo y progra 2\TP_LABO_II\Tp_laboratorio_2\Recuperatorios_Tp\TP_1\MiCalculadora\Entidades\bin\Debug\Entidades.dll
+C:\Users\Usuario\Desktop\labo y progra 2\TP_LABO_II\Tp_laboratorio_2\Recuperatorios_Tp\TP_1\MiCalculadora\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Usuario\Desktop\labo y progra 2\TP_LABO_II\Tp_laboratorio_2\Recuperatorios_Tp\TP_1\MiCalculadora\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\labo y progra 2\TP_LABO_II\Tp_laboratorio_2\Recuperatorios_Tp\TP_1\MiCalculadora\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\labo y progra 2\TP_LABO_II\Tp_laboratorio_2\Recuperatorios_Tp\TP_1\MiCalculadora\Entidades\obj\Debug\Entidades.dll
+C:\Users\Usuario\Desktop\labo y progra 2\TP_LABO_II\Tp_laboratorio_2\Recuperatorios_Tp\TP_1\MiCalculadora\Entidades\obj\Debug\Entidades.pdb

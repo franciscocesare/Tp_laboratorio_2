@@ -12,7 +12,6 @@ namespace Entidades
             :base(marca, chasis, color)
         {
            
-
         }
 
         /// <summary>
