@@ -14,3 +14,19 @@ C:\Users\Usuario\Desktop\Programacion y Laboratorio II - UTN CESARE\TP_LABO_II\T
 C:\Users\Usuario\Desktop\Programacion y Laboratorio II - UTN CESARE\TP_LABO_II\Tp_laboratorio_2\TP_3\Cesare.Francisco.2D.Tp3\Cesare.Francisco.2D.Tp3\obj\Debug\Cesare.Francisco.2D.Tp3.csproj.CopyComplete
 C:\Users\Usuario\Desktop\Programacion y Laboratorio II - UTN CESARE\TP_LABO_II\Tp_laboratorio_2\TP_3\Cesare.Francisco.2D.Tp3\Cesare.Francisco.2D.Tp3\obj\Debug\Cesare.Francisco.2D.Tp3.exe
 C:\Users\Usuario\Desktop\Programacion y Laboratorio II - UTN CESARE\TP_LABO_II\Tp_laboratorio_2\TP_3\Cesare.Francisco.2D.Tp3\Cesare.Francisco.2D.Tp3\obj\Debug\Cesare.Francisco.2D.Tp3.pdb
+C:\Users\Usuario\Desktop\Tp_laboratorio_2\TP_3\Cesare.Francisco.2D.Tp3\Cesare.Francisco.2D.Tp3\bin\Debug\Cesare.Francisco.2D.Tp3.exe.config
+C:\Users\Usuario\Desktop\Tp_laboratorio_2\TP_3\Cesare.Francisco.2D.Tp3\Cesare.Francisco.2D.Tp3\bin\Debug\Cesare.Francisco.2D.Tp3.exe
+C:\Users\Usuario\Desktop\Tp_laboratorio_2\TP_3\Cesare.Francisco.2D.Tp3\Cesare.Francisco.2D.Tp3\bin\Debug\Cesare.Francisco.2D.Tp3.pdb
+C:\Users\Usuario\Desktop\Tp_laboratorio_2\TP_3\Cesare.Francisco.2D.Tp3\Cesare.Francisco.2D.Tp3\bin\Debug\Clases Abstractas.dll
+C:\Users\Usuario\Desktop\Tp_laboratorio_2\TP_3\Cesare.Francisco.2D.Tp3\Cesare.Francisco.2D.Tp3\bin\Debug\Clases Instanciables.dll
+C:\Users\Usuario\Desktop\Tp_laboratorio_2\TP_3\Cesare.Francisco.2D.Tp3\Cesare.Francisco.2D.Tp3\bin\Debug\Excepciones.dll
+C:\Users\Usuario\Desktop\Tp_laboratorio_2\TP_3\Cesare.Francisco.2D.Tp3\Cesare.Francisco.2D.Tp3\bin\Debug\Archivo.dll
+C:\Users\Usuario\Desktop\Tp_laboratorio_2\TP_3\Cesare.Francisco.2D.Tp3\Cesare.Francisco.2D.Tp3\bin\Debug\Clases Abstractas.pdb
+C:\Users\Usuario\Desktop\Tp_laboratorio_2\TP_3\Cesare.Francisco.2D.Tp3\Cesare.Francisco.2D.Tp3\bin\Debug\Clases Instanciables.pdb
+C:\Users\Usuario\Desktop\Tp_laboratorio_2\TP_3\Cesare.Francisco.2D.Tp3\Cesare.Francisco.2D.Tp3\bin\Debug\Excepciones.pdb
+C:\Users\Usuario\Desktop\Tp_laboratorio_2\TP_3\Cesare.Francisco.2D.Tp3\Cesare.Francisco.2D.Tp3\bin\Debug\Archivo.pdb
+C:\Users\Usuario\Desktop\Tp_laboratorio_2\TP_3\Cesare.Francisco.2D.Tp3\Cesare.Francisco.2D.Tp3\obj\Debug\Cesare.Francisco.2D.Tp3.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\Tp_laboratorio_2\TP_3\Cesare.Francisco.2D.Tp3\Cesare.Francisco.2D.Tp3\obj\Debug\Cesare.Francisco.2D.Tp3.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Tp_laboratorio_2\TP_3\Cesare.Francisco.2D.Tp3\Cesare.Francisco.2D.Tp3\obj\Debug\Cesare.Francisco.2D.Tp3.csproj.CopyComplete
+C:\Users\Usuario\Desktop\Tp_laboratorio_2\TP_3\Cesare.Francisco.2D.Tp3\Cesare.Francisco.2D.Tp3\obj\Debug\Cesare.Francisco.2D.Tp3.exe
+C:\Users\Usuario\Desktop\Tp_laboratorio_2\TP_3\Cesare.Francisco.2D.Tp3\Cesare.Francisco.2D.Tp3\obj\Debug\Cesare.Francisco.2D.Tp3.pdb

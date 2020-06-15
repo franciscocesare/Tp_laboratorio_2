@@ -21,3 +21,32 @@ C:\Users\Usuario\Desktop\Programacion y Laboratorio II - UTN CESARE\TP_LABO_II\T
 C:\Users\Usuario\Desktop\Programacion y Laboratorio II - UTN CESARE\TP_LABO_II\Tp_laboratorio_2\TP_3\Cesare.Francisco.2D.Tp3\Test_unitario\bin\Debug\Cesare.Francisco.2D.Tp3.pdb
 C:\Users\Usuario\Desktop\Programacion y Laboratorio II - UTN CESARE\TP_LABO_II\Tp_laboratorio_2\TP_3\Cesare.Francisco.2D.Tp3\Test_unitario\bin\Debug\Cesare.Francisco.2D.Tp3.exe.config
 C:\Users\Usuario\Desktop\Programacion y Laboratorio II - UTN CESARE\TP_LABO_II\Tp_laboratorio_2\TP_3\Cesare.Francisco.2D.Tp3\Test_unitario\bin\Debug\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\Users\Usuario\Desktop\Tp_laboratorio_2\TP_3\Cesare.Francisco.2D.Tp3\Test_unitario\bin\Debug\Test_unitario.dll
+C:\Users\Usuario\Desktop\Tp_laboratorio_2\TP_3\Cesare.Francisco.2D.Tp3\Test_unitario\bin\Debug\Test_unitario.pdb
+C:\Users\Usuario\Desktop\Tp_laboratorio_2\TP_3\Cesare.Francisco.2D.Tp3\Test_unitario\bin\Debug\Archivo.dll
+C:\Users\Usuario\Desktop\Tp_laboratorio_2\TP_3\Cesare.Francisco.2D.Tp3\Test_unitario\bin\Debug\Cesare.Francisco.2D.Tp3.exe
+C:\Users\Usuario\Desktop\Tp_laboratorio_2\TP_3\Cesare.Francisco.2D.Tp3\Test_unitario\bin\Debug\Clases Abstractas.dll
+C:\Users\Usuario\Desktop\Tp_laboratorio_2\TP_3\Cesare.Francisco.2D.Tp3\Test_unitario\bin\Debug\Clases Instanciables.dll
+C:\Users\Usuario\Desktop\Tp_laboratorio_2\TP_3\Cesare.Francisco.2D.Tp3\Test_unitario\bin\Debug\Excepciones.dll
+C:\Users\Usuario\Desktop\Tp_laboratorio_2\TP_3\Cesare.Francisco.2D.Tp3\Test_unitario\bin\Debug\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\Users\Usuario\Desktop\Tp_laboratorio_2\TP_3\Cesare.Francisco.2D.Tp3\Test_unitario\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Usuario\Desktop\Tp_laboratorio_2\TP_3\Cesare.Francisco.2D.Tp3\Test_unitario\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Usuario\Desktop\Tp_laboratorio_2\TP_3\Cesare.Francisco.2D.Tp3\Test_unitario\bin\Debug\Archivo.pdb
+C:\Users\Usuario\Desktop\Tp_laboratorio_2\TP_3\Cesare.Francisco.2D.Tp3\Test_unitario\bin\Debug\Cesare.Francisco.2D.Tp3.pdb
+C:\Users\Usuario\Desktop\Tp_laboratorio_2\TP_3\Cesare.Francisco.2D.Tp3\Test_unitario\bin\Debug\Cesare.Francisco.2D.Tp3.exe.config
+C:\Users\Usuario\Desktop\Tp_laboratorio_2\TP_3\Cesare.Francisco.2D.Tp3\Test_unitario\bin\Debug\Clases Abstractas.pdb
+C:\Users\Usuario\Desktop\Tp_laboratorio_2\TP_3\Cesare.Francisco.2D.Tp3\Test_unitario\bin\Debug\Clases Instanciables.pdb
+C:\Users\Usuario\Desktop\Tp_laboratorio_2\TP_3\Cesare.Francisco.2D.Tp3\Test_unitario\bin\Debug\Excepciones.pdb
+C:\Users\Usuario\Desktop\Tp_laboratorio_2\TP_3\Cesare.Francisco.2D.Tp3\Test_unitario\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Usuario\Desktop\Tp_laboratorio_2\TP_3\Cesare.Francisco.2D.Tp3\Test_unitario\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Usuario\Desktop\Tp_laboratorio_2\TP_3\Cesare.Francisco.2D.Tp3\Test_unitario\obj\Debug\Test_unitario.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\Tp_laboratorio_2\TP_3\Cesare.Francisco.2D.Tp3\Test_unitario\obj\Debug\Test_unitario.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Tp_laboratorio_2\TP_3\Cesare.Francisco.2D.Tp3\Test_unitario\obj\Debug\Test_unitario.csproj.CopyComplete
+C:\Users\Usuario\Desktop\Tp_laboratorio_2\TP_3\Cesare.Francisco.2D.Tp3\Test_unitario\obj\Debug\Test_unitario.dll
+C:\Users\Usuario\Desktop\Tp_laboratorio_2\TP_3\Cesare.Francisco.2D.Tp3\Test_unitario\obj\Debug\Test_unitario.pdb
+C:\Users\Usuario\Desktop\Tp_laboratorio_2\TP_3\Cesare.Francisco.2D.Tp3\Test_unitario\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\Usuario\Desktop\Tp_laboratorio_2\TP_3\Cesare.Francisco.2D.Tp3\Test_unitario\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\Usuario\Desktop\Tp_laboratorio_2\TP_3\Cesare.Francisco.2D.Tp3\Test_unitario\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\Usuario\Desktop\Tp_laboratorio_2\TP_3\Cesare.Francisco.2D.Tp3\Test_unitario\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Usuario\Desktop\Tp_laboratorio_2\TP_3\Cesare.Francisco.2D.Tp3\Test_unitario\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Usuario\Desktop\Tp_laboratorio_2\TP_3\Cesare.Francisco.2D.Tp3\Test_unitario\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
