@@ -1,0 +1,5 @@
+C:\Users\Usuario\Desktop\Programacion y Laboratorio II - UTN CESARE\TP_LABO_II\Tp_laboratorio_2\TP_3\Cesare.Francisco.2D.Tp3\Excepciones\bin\Debug\Excepciones.dll
+C:\Users\Usuario\Desktop\Programacion y Laboratorio II - UTN CESARE\TP_LABO_II\Tp_laboratorio_2\TP_3\Cesare.Francisco.2D.Tp3\Excepciones\bin\Debug\Excepciones.pdb
+C:\Users\Usuario\Desktop\Programacion y Laboratorio II - UTN CESARE\TP_LABO_II\Tp_laboratorio_2\TP_3\Cesare.Francisco.2D.Tp3\Excepciones\obj\Debug\Excepciones.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Programacion y Laboratorio II - UTN CESARE\TP_LABO_II\Tp_laboratorio_2\TP_3\Cesare.Francisco.2D.Tp3\Excepciones\obj\Debug\Excepciones.dll
+C:\Users\Usuario\Desktop\Programacion y Laboratorio II - UTN CESARE\TP_LABO_II\Tp_laboratorio_2\TP_3\Cesare.Francisco.2D.Tp3\Excepciones\obj\Debug\Excepciones.pdb

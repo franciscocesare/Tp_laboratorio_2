@@ -1,0 +1,9 @@
+C:\Users\Usuario\Desktop\Programacion y Laboratorio II - UTN CESARE\TP_LABO_II\Tp_laboratorio_2\TP_3\Cesare.Francisco.2D.Tp3\Archivo\bin\Debug\Archivo.dll
+C:\Users\Usuario\Desktop\Programacion y Laboratorio II - UTN CESARE\TP_LABO_II\Tp_laboratorio_2\TP_3\Cesare.Francisco.2D.Tp3\Archivo\bin\Debug\Archivo.pdb
+C:\Users\Usuario\Desktop\Programacion y Laboratorio II - UTN CESARE\TP_LABO_II\Tp_laboratorio_2\TP_3\Cesare.Francisco.2D.Tp3\Archivo\bin\Debug\Excepciones.dll
+C:\Users\Usuario\Desktop\Programacion y Laboratorio II - UTN CESARE\TP_LABO_II\Tp_laboratorio_2\TP_3\Cesare.Francisco.2D.Tp3\Archivo\bin\Debug\Excepciones.pdb
+C:\Users\Usuario\Desktop\Programacion y Laboratorio II - UTN CESARE\TP_LABO_II\Tp_laboratorio_2\TP_3\Cesare.Francisco.2D.Tp3\Archivo\obj\Debug\Archivo.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\Programacion y Laboratorio II - UTN CESARE\TP_LABO_II\Tp_laboratorio_2\TP_3\Cesare.Francisco.2D.Tp3\Archivo\obj\Debug\Archivo.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Programacion y Laboratorio II - UTN CESARE\TP_LABO_II\Tp_laboratorio_2\TP_3\Cesare.Francisco.2D.Tp3\Archivo\obj\Debug\Archivo.csproj.CopyComplete
+C:\Users\Usuario\Desktop\Programacion y Laboratorio II - UTN CESARE\TP_LABO_II\Tp_laboratorio_2\TP_3\Cesare.Francisco.2D.Tp3\Archivo\obj\Debug\Archivo.dll
+C:\Users\Usuario\Desktop\Programacion y Laboratorio II - UTN CESARE\TP_LABO_II\Tp_laboratorio_2\TP_3\Cesare.Francisco.2D.Tp3\Archivo\obj\Debug\Archivo.pdb
