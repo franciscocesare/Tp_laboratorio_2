@@ -20,3 +20,4 @@ C:\Users\Usuario\Desktop\Programacion y Laboratorio II - UTN CESARE\TP_LABO_II\T
 C:\Users\Usuario\Desktop\Programacion y Laboratorio II - UTN CESARE\TP_LABO_II\Tp_laboratorio_2\TP_3\Cesare.Francisco.2D.Tp3\Test_unitario\bin\Debug\Cesare.Francisco.2D.Tp3.exe
 C:\Users\Usuario\Desktop\Programacion y Laboratorio II - UTN CESARE\TP_LABO_II\Tp_laboratorio_2\TP_3\Cesare.Francisco.2D.Tp3\Test_unitario\bin\Debug\Cesare.Francisco.2D.Tp3.pdb
 C:\Users\Usuario\Desktop\Programacion y Laboratorio II - UTN CESARE\TP_LABO_II\Tp_laboratorio_2\TP_3\Cesare.Francisco.2D.Tp3\Test_unitario\bin\Debug\Cesare.Francisco.2D.Tp3.exe.config
+C:\Users\Usuario\Desktop\Programacion y Laboratorio II - UTN CESARE\TP_LABO_II\Tp_laboratorio_2\TP_3\Cesare.Francisco.2D.Tp3\Test_unitario\bin\Debug\Microsoft.VisualStudio.CodeCoverage.Shim.dll
