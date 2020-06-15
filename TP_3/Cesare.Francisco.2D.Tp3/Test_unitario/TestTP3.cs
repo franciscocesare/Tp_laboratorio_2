@@ -11,44 +11,47 @@ namespace Test_unitario
     [TestClass]
     public class TestTP3
     {
+        /// <summary>
+        /// Pureba que lance la excepcion SinProfesorExcepcion
+        /// </summary>
         [TestMethod]
         [ExpectedException(typeof(SinProfesorException))]
         public void TestSinProfesorException()
         {
             Universidad uni = new Universidad();
-            Alumno a1 = new Alumno(1, "Juan", "Lopez", "12234456",
-            EntidadesAbstractas.Persona.ENacionalidad.Argentino, Universidad.EClases.Programacion,
-            Alumno.EEstadoCuenta.Becado);
+            Alumno a1 = new Alumno(1, "Juan", "Lopez", "12234456",Persona.ENacionalidad.Argentino, Universidad.EClases.Programacion, Alumno.EEstadoCuenta.Becado);
             uni += Universidad.EClases.SPD;
         }
 
-
-        [TestMethod] //va con cada metodo de test
-        [ExpectedException(typeof(NacionalidadInvalidaException))] //espera una excepcion del tipo que creamos
-
-        public void PersonaSinDniValido()
-        {
-
-           
+        /// <summary>
+        /// Pureba que lance la excepcion  NacionalidadInvalida
+        /// </summary>
+        [TestMethod]
+        [ExpectedException(typeof(NacionalidadInvalidaException))] 
+        public void TestPersonaSinDniValido()
+        {   
+            
             Alumno a1 = new Alumno(1, "Juan", "Lopez", "0",
             Persona.ENacionalidad.Argentino, Universidad.EClases.Programacion,
             Alumno.EEstadoCuenta.Becado);
-
         }
 
+        
         /// <summary>
-        /// 
+        /// Valide se haya instanciado un atributo del tipo 
+        ///colección
         /// </summary>
         [TestMethod]
-
-        public void ValidarNumero()
+        public void TestInstanciaAtributoColection()
         {
             //Arrange
+            Universidad uni = new Universidad();
             Alumno alumno1 = new Alumno(1, "Juan", "Lopez", "12234456", Persona.ENacionalidad.Argentino, Universidad.EClases.Programacion, Alumno.EEstadoCuenta.Becado);
+            uni.Alumnos.Add(alumno1);
 
-            //Assert
-            Assert.IsInstanceOfType(alumno1.DNI, typeof(int));
-            Assert.IsNotInstanceOfType(alumno1.DNI, typeof(string));
+            //Assert que sumo un alumno a la lista
+            Assert.IsTrue(uni.Alumnos.Count != 0);
+
         }
 
     }

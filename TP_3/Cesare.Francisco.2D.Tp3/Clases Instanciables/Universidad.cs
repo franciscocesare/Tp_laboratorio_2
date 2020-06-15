@@ -249,7 +249,7 @@ namespace Clases_Instanciables
         /// <param name="u"></param>
         /// <param name="a"></param>
         /// <returns></returns>
-        public static Universidad operator +(Universidad u, Alumno a)
+        public static Universidad operator + (Universidad u, Alumno a)
         {
             if (u != a)
             {
@@ -267,7 +267,7 @@ namespace Clases_Instanciables
         /// <param name="u"></param>
         /// <param name="i"></param>
         /// <returns></returns>
-        public static Universidad operator +(Universidad u, Profesor i)
+        public static Universidad operator + (Universidad u, Profesor i)
         {
             foreach (Profesor profesor in u.Profesores)
             {
