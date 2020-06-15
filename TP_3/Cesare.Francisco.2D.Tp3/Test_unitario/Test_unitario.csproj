@@ -46,6 +46,7 @@
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
+    <Reference Include="System.Data" />
   </ItemGroup>
   <ItemGroup>
     <Compile Include="TestTP3.cs" />
@@ -55,6 +56,10 @@
     <ProjectReference Include="..\Archivo\Archivo.csproj">
       <Project>{10ba6942-38e0-4941-ad9b-455cd15cc0ee}</Project>
       <Name>Archivo</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Cesare.Francisco.2D.Tp3\Cesare.Francisco.2D.Tp3.csproj">
+      <Project>{94092b0f-167a-4a3d-a577-e788f6de528e}</Project>
+      <Name>Cesare.Francisco.2D.Tp3</Name>
     </ProjectReference>
     <ProjectReference Include="..\Clases Abstractas\Clases Abstractas.csproj">
       <Project>{b0c31eb2-198d-4de2-89e0-3c3d2168647f}</Project>

@@ -1,6 +1,7 @@
 ﻿using EntidadesAbstractas;
 using Clases_Instanciables;
 using Excepciones;
+using System.Collections.Generic;
 using System;
 using Archivo;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
@@ -25,12 +26,12 @@ namespace Test_unitario
         [TestMethod] //va con cada metodo de test
         [ExpectedException(typeof(DniInvalidoException))] //espera una excepcion del tipo que creamos
 
-        public void PersonaSinDni()
+        public void PersonaSinDniValido()
         {
 
             Alumno a1 = new Alumno(1, "pancho", "cesare", "0", Persona.ENacionalidad.Argentino, Universidad.EClases.Laboratorio);
 
-            Assert.IsNotNull(a1);
+           
         }
 
         [TestMethod]
