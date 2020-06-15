@@ -18,7 +18,7 @@ namespace Archivo
 
                 {
                     string path = AppDomain.CurrentDomain.BaseDirectory;
-                    using (XmlTextWriter xmlWriter = new XmlTextWriter(path + @"\" + archivo, Encoding.ASCII))
+                    using (XmlTextWriter xmlWriter = new XmlTextWriter(path + @"\" + archivo, Encoding.UTF8))
                     {
                         XmlSerializer serializer = new XmlSerializer(typeof(T));
                         serializer.Serialize(xmlWriter, datos);

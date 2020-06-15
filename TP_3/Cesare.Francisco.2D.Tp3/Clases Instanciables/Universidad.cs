@@ -236,7 +236,11 @@ namespace Clases_Instanciables
             foreach (Alumno alumno in g.Alumnos)
             {
                 if (alumno == clase)
+                {
+
                     jornada.Alumnos.Add(alumno);
+
+                }
             }
 
             g.Jornadas.Add(jornada);
@@ -262,7 +266,7 @@ namespace Clases_Instanciables
         }
 
         /// <summary>
-        /// 
+        /// se agrega un profe a la universidad
         /// </summary>
         /// <param name="u"></param>
         /// <param name="i"></param>

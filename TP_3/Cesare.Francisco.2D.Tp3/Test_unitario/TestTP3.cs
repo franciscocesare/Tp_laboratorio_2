@@ -28,7 +28,7 @@ namespace Test_unitario
         /// </summary>
         [TestMethod]
         [ExpectedException(typeof(NacionalidadInvalidaException))] 
-        public void TestPersonaSinDniValido()
+        public void TestDniException()
         {   
             
             Alumno a1 = new Alumno(1, "Juan", "Lopez", "0",
@@ -38,8 +38,7 @@ namespace Test_unitario
 
         
         /// <summary>
-        /// Valide se haya instanciado un atributo del tipo 
-        ///colección
+        /// Valide se haya instanciado un atributo del tipo colección
         /// </summary>
         [TestMethod]
         public void TestInstanciaAtributoColection()
