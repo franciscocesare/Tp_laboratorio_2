@@ -24,14 +24,14 @@ namespace Test_unitario
 
 
         [TestMethod] //va con cada metodo de test
-        [ExpectedException(typeof(DniInvalidoException))] //espera una excepcion del tipo que creamos
+        [ExpectedException(typeof(NacionalidadInvalidaException))] //espera una excepcion del tipo que creamos
 
         public void PersonaSinDniValido()
         {
 
-            //Alumno a1 = new Alumno(1, "pancho", "cesare", "0", Persona.ENacionalidad.Argentino, Universidad.EClases.Laboratorio);
+           
             Alumno a1 = new Alumno(1, "Juan", "Lopez", "0",
-            EntidadesAbstractas.Persona.ENacionalidad.Argentino, Universidad.EClases.Programacion,
+            Persona.ENacionalidad.Argentino, Universidad.EClases.Programacion,
             Alumno.EEstadoCuenta.Becado);
 
         }

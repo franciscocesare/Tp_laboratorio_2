@@ -177,7 +177,7 @@ namespace EntidadesAbstractas
             if (!string.IsNullOrEmpty(dato) && !string.IsNullOrWhiteSpace(dato))
                 return dato;
             else
-                return "erro";
+                return "unknown";
         }
           
 
