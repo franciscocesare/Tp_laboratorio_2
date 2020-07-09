@@ -1,0 +1,13 @@
+C:\Users\Usuario\source\repos\Cesare.Francisco.2D\Cesare.Francisco.2D\bin\Debug\Cesare.Francisco.2D.exe.config
+C:\Users\Usuario\source\repos\Cesare.Francisco.2D\Cesare.Francisco.2D\bin\Debug\Cesare.Francisco.2D.exe
+C:\Users\Usuario\source\repos\Cesare.Francisco.2D\Cesare.Francisco.2D\bin\Debug\Cesare.Francisco.2D.pdb
+C:\Users\Usuario\source\repos\Cesare.Francisco.2D\Cesare.Francisco.2D\bin\Debug\Entidades.dll
+C:\Users\Usuario\source\repos\Cesare.Francisco.2D\Cesare.Francisco.2D\bin\Debug\Entidades.pdb
+C:\Users\Usuario\source\repos\Cesare.Francisco.2D\Cesare.Francisco.2D\obj\Debug\MainCorreo.csprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\Cesare.Francisco.2D\Cesare.Francisco.2D\obj\Debug\Cesare.Francisco._2D.FrmPpal.resources
+C:\Users\Usuario\source\repos\Cesare.Francisco.2D\Cesare.Francisco.2D\obj\Debug\Cesare.Francisco._2D.Properties.Resources.resources
+C:\Users\Usuario\source\repos\Cesare.Francisco.2D\Cesare.Francisco.2D\obj\Debug\MainCorreo.csproj.GenerateResource.cache
+C:\Users\Usuario\source\repos\Cesare.Francisco.2D\Cesare.Francisco.2D\obj\Debug\MainCorreo.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Cesare.Francisco.2D\Cesare.Francisco.2D\obj\Debug\MainCorreo.csproj.CopyComplete
+C:\Users\Usuario\source\repos\Cesare.Francisco.2D\Cesare.Francisco.2D\obj\Debug\Cesare.Francisco.2D.exe
+C:\Users\Usuario\source\repos\Cesare.Francisco.2D\Cesare.Francisco.2D\obj\Debug\Cesare.Francisco.2D.pdb

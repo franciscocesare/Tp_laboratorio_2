@@ -1,28 +1,20 @@
-CLASE DE Legislacion POR NOMBRE COMPLETO: NOMBRE COMPLETO: Lopez, Juan
+CLASE DE Laboratorio POR NOMBRE COMPLETO: NOMBRE COMPLETO: Lopez, Juan
 NACIONALIDAD: Argentino
 
 LEGAJO NUMERO: 1
 
 Clases del Dia:
-Legislacion
 SPD
+Laboratorio
 
 
 ALUMNOS:
-NOMBRE COMPLETO: Hernandez, Miguel
+NOMBRE COMPLETO: Suarez, Joaquin
 NACIONALIDAD: Extranjero
 
-LEGAJO NUMERO: 4
+LEGAJO NUMERO: 7
 
 ESTADO DE CUENTA: Cuota al día
-TOMA CLASES DE Legislacion
-
-NOMBRE COMPLETO: Smith, Rodrigo
-NACIONALIDAD: Argentino
-
-LEGAJO NUMERO: 8
-
-ESTADO DE CUENTA: Cuota al día
-TOMA CLASES DE Legislacion
+TOMA CLASES DE Laboratorio
 
 

@@ -9,7 +9,6 @@ namespace Archivo
     public class Xml<T> : IArchivo<T>
     {
 
-
         public bool Guardar(string archivo, T datos)
         {
             if (!string.IsNullOrEmpty(archivo) && datos != null)
